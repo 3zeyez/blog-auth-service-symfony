@@ -67,5 +67,10 @@
             "require": "7.1.*",
             "docker": true
         }
+    },
+    "require-dev": {
+        "symfony/debug-bundle": "7.1.*",
+        "symfony/stopwatch": "7.1.*",
+        "symfony/web-profiler-bundle": "7.1.*"
     }
 }
